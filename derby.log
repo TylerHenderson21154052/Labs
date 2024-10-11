@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Oct 11 14:13:47 NZDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0192-7923-932b-00001ea86658 
+on database directory C:\Users\tcshe\OneDrive - AUT University\Year 2 - 2024\Semester 2\Software Design\Lab\PDC_Tutorials\DatabaseTest with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/tcshe/OneDrive%20-%20AUT%20University/Year%202%20-%202024/Semester%202/Software%20Design/Lab/PDC_Tutorials/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.2+7-44
+user.dir=C:\Users\tcshe\OneDrive - AUT University\Year 2 - 2024\Semester 2\Software Design\Lab\PDC_Tutorials
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
